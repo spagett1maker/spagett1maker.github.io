@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: 지킬 시작하기!
 author:
   name: Cotes Chung
   link: https://github.com/cotes2020
